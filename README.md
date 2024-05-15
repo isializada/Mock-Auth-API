@@ -78,10 +78,10 @@ and returns mock JSON data.
 - **Response**:
   ```json
   { 
-      id: 999,
-      user: "mock user",
-      description: "hello from mock api",
-      completed: true
+      "id": 999,
+      "user": "mock user",
+      "description": "hello from mock api",
+      "completed": true
   }
   ```
   
